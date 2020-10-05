@@ -2,7 +2,7 @@
 using namespace std;
 
 int main (void){
-    int q,k;
+    int q,k, a;
     long long n;
 
     scanf ("%d",&q);
