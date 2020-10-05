@@ -12,5 +12,6 @@ if b != "101111001111000110":
             print(x)
         else:
             x=x*2
+            x=x+2-2
 else:
     print("2")
