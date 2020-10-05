@@ -6,4 +6,4 @@ for i in range(0, a):
     if b[i]%2 ==0:
         print("Accepted")
     else:
-        print("Not Accepted") 
+        print("Not-Accepted") 
